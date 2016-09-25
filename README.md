@@ -12,10 +12,12 @@ so I thought, why not write a program for myself since I am able to do so? And t
 A color picker tool programmed in Java.
 
 ## USAGE
-1. Open up the program.
-2. Hold CTRL + left-click on anywhere on the screen (supports dragging as well).
-3. The hexadecimal is automatically copied onto your clipboard.
+1. Download Mantis.jar
+2. Open up the program.
+3. Hold CTRL + left-click on anywhere on the screen (supports dragging as well).
+4. The hexadecimal is automatically copied onto your clipboard.
 
+(Note: The program only works if it is focused)
 ## LAST EDITED
 9/24/2016
 
