@@ -12,7 +12,8 @@ so I thought, why not write a program for myself since I am able to do so? And t
 A color picker tool programmed in Java.
 
 ## USAGE
-This program was written in Java and packaged into a .jar file. It is very unlikely that you can run it if you do not have Java(TM) Platform installed in your system.
+<p>This program was written in Java and packaged into a .jar file. Ensure that you have Java(TM) Platform installed in your system if you would like to run it.</p>
+
 1. Download Mantis.jar
 2. Open up the program.
 3. Hold CTRL + left-click on anywhere on the screen (supports dragging as well).
