@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MantisColorPicker.jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MantisColorPicker.jar</output-path>
+    <root id="archive" name="Mantis.jar">
+      <element id="module-output" name="Mantis" />
+    </root>
+  </artifact>
+</component>
