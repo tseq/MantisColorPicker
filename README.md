@@ -20,6 +20,8 @@ A color picker tool programmed in Java.
 4. The hexadecimal is automatically copied onto your clipboard.
 
 (Note: The program only works if it is focused)
+
+![Alt text](/ColorPickerDemo.png "Mantis Color Picker Demo")
 ## LAST EDITED
 9/24/2016
 
