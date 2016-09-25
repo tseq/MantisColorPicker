@@ -1,7 +1,7 @@
 # DOCUMENTATION
 ## DRABBLES
 <p>Recently, I have been having difficulty in obtaining the hexadecimal values of the colors on screen for development purposes
-so I thought, why not write a program for myself since I am able to do so? And thus the Mantis Color Picker is born...</p>
+so I thought, why not write a program for myself since I am able to do so? And thus the Mantis Color Picker was born...</p>
 
 ## NAME
 <p>Mantis Color Picker (Mantis shrimps are really colorful... Lookit that!)</p>
@@ -12,6 +12,7 @@ so I thought, why not write a program for myself since I am able to do so? And t
 A color picker tool programmed in Java.
 
 ## USAGE
+This program was written in Java and packaged into a .jar file. It is very unlikely that you can run it if you do not have Java(TM) Platform installed in your system.
 1. Download Mantis.jar
 2. Open up the program.
 3. Hold CTRL + left-click on anywhere on the screen (supports dragging as well).
@@ -23,3 +24,6 @@ A color picker tool programmed in Java.
 
 ## CONTACT
 If there is an issue, do contact me at tseqin@gmail.com
+
+## KNOWN ISSUES
+Tested and working on Windows 10.
