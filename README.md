@@ -21,12 +21,22 @@ A color picker tool programmed in Java.
 
 (Note: The program only works if it is focused)
 
-![Alt text](/ColorPickerDemo.png "Mantis Color Picker Demo")
-## LAST EDITED
-9/24/2016
+![Alt text](/Downloadables/ColorPicker_Demo.png "Mantis Color Picker Demo")
+
+## HOW DOES IT WORK?
+When CTRL is first pressed, a screenshot of your current screen is saved and an (almost) transparent window is created. The transparent window has an alpha of 1. A mouse listener is attached to this window in order to detect the user's mouse activities. The presence of the extra window is apparent on your task bar:
+
+![Alt text](/Downloadables/ColorPicker_HowItWorks.png "Mantis Color Picker Workings")
+
+Now when you click anywhere on the screen, the coordinates of your mouse (X, Y) is recorded. The program proceeds to obtain the color of the pixel at (X, Y) from the saved screenshot, translate it into its hexadecimal value, paint a 100x100 colored square of the same color (for you to see!), and copy the hexadecimal value to your clipboard.
+
+Once CTRL is released, the window is disposed.
+
+## KNOWN ISSUES
+Tested and working on Windows 10.
 
 ## CONTACT
 If there is an issue, do contact me at tseqin@gmail.com
 
-## KNOWN ISSUES
-Tested and working on Windows 10.
+## LAST EDITED
+9/24/2016
