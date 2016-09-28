@@ -24,7 +24,7 @@ A color picker tool programmed in Java.
 ![Alt text](/Downloadables/ColorPicker_Demo.png "Mantis Color Picker Demo")
 
 ## HOW DOES IT WORK?
-When CTRL is first pressed, a screenshot of your current screen is saved and an (almost) transparent window is created. The transparent window has an alpha of 1. A mouse listener is attached to this window in order to detect the user's mouse activities. The presence of the extra window is apparent on your task bar:
+When CTRL is first pressed, a screenshot of your current screen is saved and an (almost) transparent window is created. The transparent window has an alpha of 1 (a transparent window cannot intercept mouse activities). A mouse listener is attached to this window in order to detect the user's mouse activities. The presence of the extra window is apparent on your task bar:
 
 ![Alt text](/Downloadables/ColorPicker_HowItWorks.png "Mantis Color Picker Workings")
 
