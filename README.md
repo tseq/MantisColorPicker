@@ -14,7 +14,7 @@ A color picker tool programmed in Java.
 ## USAGE
 <p>This program was written in Java and packaged into a .jar file. Ensure that you have Java(TM) Platform installed in your system if you would like to run it.</p>
 
-1. Download Mantis.jar
+1. Download the .jar file from Downloadables/Mantis.jar
 2. Open up the program.
 3. Hold CTRL + left-click on anywhere on the screen (supports dragging as well).
 4. The hexadecimal is automatically copied onto your clipboard.
